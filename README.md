@@ -1,7 +1,8 @@
 # MyFirstGrcFile
 
 ## Overview
-This project serves as an introduction to GNU Radio and explores the basic functionalities of the library. The goal is to create a simple program that generates and processes a radio signal using GNU Radio blocks.
+Just me messing around with GNU Radio and Python to see what I can do.
+Create a simple program that plays with radio signals using GNU Radio blocks.
 
 ## Requirements
 - GNU Radio (version 3.10.8.0)
