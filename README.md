@@ -13,11 +13,8 @@ Create a simple program that plays with radio signals using GNU Radio blocks.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MyFirstGrcFile.git
+   git clone https://github.com/IvanKhalziev/GNURadio_framework_overview
 
-1. Navigate to the project directory:
-   ```bash
-    cd MyFirstGrcFile
-3. Run the program:
+2. Run the program:
    ```powershell
-    python MyFirstGrcFile.py
+    python GrcFile.py
